@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Machine Learning Enthusiast | Tech Creator </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%F0%9F%92%BB;Machine%20Learning%20%F0%9F%96%A5%EF%B8%8F%20Enthusiast;Data%20Science%20Lover%20%E2%9C%94%EF%B8%8F;YouTuber%20%40LearnByte%20%F0%9F%93%BA;Always%20Learning%20New%20Things%20%E2%9C%A8&center=true&width=500&height=50&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%F0%9F%92%BB;Machine%20Learning%20%F0%9F%96%A5%EF%B8%8F%20Enthusiast;Data%20Science%20Lover%20%E2%9C%94%EF%B8%8F;Always%20Learning%20New%20Things%20%E2%9C%A8&center=true&width=500&height=50&pause=1000">
 </p>
 
 ---
