@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Asim Hanif</h1>
-<h3 align="center">Software Engineer | Machine Learning Enthusiast | Tech Creator</h3>
-
-<img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=500&lines=Software+Engineer+💻;Machine+Learning+Enthusiast+🧠;Backend+Developer+🚀;Always+Learning+✨" alt="Typing SVG"/>
-
+<h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Final-year Software Engineering Student** at NUTECH, Islamabad  
+- 🎓 **Software Engineering Student** at NUTECH, Islamabad  
 - 💡 Passionate about **Machine Learning**, **Backend Engineering**, and **Data-Driven Applications**
 - 📈 Strong background in **Python, Django**, and **ML model development**
 - 🧠 Actively building real-world solutions to solve local and global tech challenges
 
 ---
 
-### 🚧 Ongoing & Recent Projects
+### Recent Projects
 
 | Project | Description |
 |--------|-------------|
