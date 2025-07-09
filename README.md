@@ -12,21 +12,6 @@
 
 ---
 
-### Recent Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔐 **Fake Job Classifier** | Detects fraudulent job listings using NLP & ML – focuses on job scam awareness in Pakistan |
-| 🤝 **Escrow-Based Transaction Platform** | Django-based secure payment web app to build trust in peer-to-peer online deals |
-| 📊 **Diabetes Prediction** | ML-powered health prediction model with Flask UI |
-| 📸 **Face Recognition Attendance System** | Real-time attendance tracker using OpenCV and face encodings |
-| 🌐 **JobFusion** | Upwork-inspired freelancing portal with role-based access |
-| 🎓 **LMS Portal** | Full-stack Learning Management System using Django + React |
-| 📧 **Email Spam Classifier** | NLP-based spam detection with TF-IDF and Naive Bayes |
-| 📰 **Fake News Detector** | Detects misinformation using NLP + ML with dynamic reasoning backend |
-
----
-
 ### 🚀 Tech Stack
 
 #### 💻 Languages
