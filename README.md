@@ -1,30 +1,40 @@
 <h1 align="center">Hi 👋, I'm Asim Hanif</h1>
-<h3 align="center">Software Engineer | Machine Learning Enthusiast | Tech Creator </h3>
+<h3 align="center">Software Engineer | Machine Learning Enthusiast | Tech Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20%F0%9F%92%BB;Machine%20Learning%20%F0%9F%96%A5%EF%B8%8F%20Enthusiast;Data%20Science%20Lover%20%E2%9C%94%EF%B8%8F;Always%20Learning%20New%20Things%20%E2%9C%A8&center=true&width=500&height=50&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20💻;Machine%20Learning%20Enthusiast%20🧠;Backend%20Developer%20🚀;Always%20Learning%20✨&center=true&width=500&height=50&pause=1000" alt="Typing SVG">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 **Software Engineering Student** at NUTECH, Islamabad  
-- 🎯 Passionate about **Machine Learning**, **Backend Development**, and **Data Science**
-- 👨‍💼 Currently working on:
-  - `JobFusion` – Job portal like Upwork
-  - `LMS` – Learning Management System using Django + React
-  - `Face Recognition Attendance System`
-  - `Diabetes Prediction ML Project`
-- 📺 Running YouTube Channels:  
-  - [`LearnByte`](https://youtube.com/@LearnByte) – Software & Data Science Education  
-  - [`VersusWorld`](https://youtube.com/@VersusWorld) – Country Comparison Videos
+### 👨‍💻 About Me
+
+- 🎓 **Final-year Software Engineering Student** at NUTECH, Islamabad  
+- 💡 Passionate about **Machine Learning**, **Backend Engineering**, and **Data-Driven Applications**
+- 📈 Strong background in **Python, Django**, and **ML model development**
+- 🧠 Actively building real-world solutions to solve local and global tech challenges
+
+---
+
+### 🚧 Ongoing & Recent Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔐 **Fake Job Classifier** | Detects fraudulent job listings using NLP & ML – focuses on job scam awareness in Pakistan |
+| 🤝 **Escrow-Based Transaction Platform** | Django-based secure payment web app to build trust in peer-to-peer online deals |
+| 📊 **Diabetes Prediction** | ML-powered health prediction model with Flask UI |
+| 📸 **Face Recognition Attendance System** | Real-time attendance tracker using OpenCV and face encodings |
+| 🌐 **JobFusion** | Upwork-inspired freelancing portal with role-based access |
+| 🎓 **LMS Portal** | Full-stack Learning Management System using Django + React |
+| 📧 **Email Spam Classifier** | NLP-based spam detection with TF-IDF and Naive Bayes |
+| 📰 **Fake News Detector** | Detects misinformation using NLP + ML with dynamic reasoning backend |
 
 ---
 
 ### 🚀 Tech Stack
 
 #### 💻 Languages
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,37 +43,41 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### 🧠 Frameworks & Libraries
-<p align="left">
+#### 📚 Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 #### 🗃️ Databases & Tools
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-#### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+#### 🛠️ Dev Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/codedbyasim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/@LearnByte"><img src="https://img.shields.io/badge/YouTube-LearnByte-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://github.com/codedbyasim"><img src="https://img.shields.io/badge/GitHub-asimhanif-black?style=for-the-badge&logo=github"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyasim&layout=compact&theme=radical&hide_border=true" />
 </p>
