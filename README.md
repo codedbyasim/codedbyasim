@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asim Hanif</h1>
 <h3 align="center">Software Engineer | Machine Learning Enthusiast | Tech Creator</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20💻;Machine%20Learning%20Enthusiast%20🧠;Backend%20Developer%20🚀;Always%20Learning%20✨&center=true&width=500&height=50&pause=1000" alt="Typing SVG">
-</p>
+<img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=500&lines=Software+Engineer+💻;Machine+Learning+Enthusiast+🧠;Backend+Developer+🚀;Always+Learning+✨" alt="Typing SVG"/>
+
 
 ---
 
