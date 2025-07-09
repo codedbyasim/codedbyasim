@@ -74,6 +74,22 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyasim&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyasim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyasim&theme=radical&hide_border=true" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyasim&layout=compact&theme=radical&hide_border=true" width="60%" />
+</p>
+
+<!-- Optional Contribution Graph -->
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codedbyasim&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+-->
