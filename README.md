@@ -1,5 +1,4 @@
-<h1 align="center">Asim Hanif</h1>
-<h3 align="center"><code>Software Engineer | ML Enthusiast | Backend Dev</code></h3>
+<h1 align="center"><code>Software Engineer | ML Enthusiast | Backend Dev</code></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+into+Code.;Solving+Problems+with+Python.;Always+Learning+Something+New!&center=true&width=500&height=45" alt="Typing SVG" />
