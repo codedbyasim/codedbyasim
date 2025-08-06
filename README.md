@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Asim Hanif ✨</h1>
+<h1 align="center">Hi 👋, I'm Asim Hanif</h1>
 <h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
 
 👨‍💻 About Me
-🎓 Software Engineering Student at NUTECH, Islamabad
+🎓 A dedicated Software Engineering Student at NUTECH, Islamabad.
 
-💡 Passionate about Machine Learning, Backend Engineering, and Data-Driven Applications
+💡 Passionate about Machine Learning, Backend Engineering, and Data-Driven Applications.
 
-📈 Strong background in Python, Django, and ML model development
+📈 Strong background and practical experience in Python, Django, and ML model development.
 
-🧠 Actively building real-world solutions to solve local and global tech challenges
+🧠 Actively building real-world solutions to tackle local and global tech challenges. I believe in transforming complex problems into simple and efficient code.
+
+🚀 Always eager to learn and apply new concepts and technologies, especially in the fields of Artificial Intelligence and large-scale system design.
 
 🚀 Tech Stack
 💻 Languages
@@ -44,28 +46,12 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
-📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codedbyasim&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Asim's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyasim&theme=dark" alt="Asim's GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyasim&layout=compact&theme=dark" alt="Asim's Top Languages"/>
-</p>
-
-🏆 GitHub Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=codedbyasim&theme=dark" alt="Asim's GitHub Trophies"/>
-</a>
-</p>
-
 📬 Connect With Me
 <p>
 <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/codedbyasim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <!-- You can add more social links here if you have them, e.g., Twitter, your personal website, or a blog! -->
-<!-- Example: <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
-<!-- Example: <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Website"/></a> -->
 </p>
 
 <p align="center">
