@@ -1,59 +1,67 @@
-<h1 align="center">Hi, I'm Asim Hanif</h1>
-<h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
+<h1 align="center">Asim Hanif</h1>
+<h3 align="center"><code>Software Engineer | ML Enthusiast | Backend Dev</code></h3>
 
-👨‍💻 About Me
-🎓 A dedicated Software Engineering Student at NUTECH, Islamabad.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+into+Code.;Solving+Problems+with+Python.;Always+Learning+Something+New!&center=true&width=500&height=45" alt="Typing SVG" />
+</div>
 
-💡 Passionate about Machine Learning, Backend Engineering, and Data-Driven Applications.
+---
 
-📈 Strong background and practical experience in Python, Django, and ML model development.
+### 👨‍💻 Who Am I?
 
-🧠 Actively building real-world solutions to tackle local and global tech challenges. I believe in transforming complex problems into simple and efficient code.
+I'm a passionate software engineer based in **Islamabad, Pakistan**, currently pursuing my degree at **NUTECH**. I specialize in **machine learning**, **backend engineering**, and building tools that solve real-world problems.
 
-🚀 Always eager to learn and apply new concepts and technologies, especially in the fields of Artificial Intelligence and large-scale system design.
+> “Clean code, meaningful solutions, and endless curiosity.”
 
-🚀 Tech Stack
-💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+I believe in simplicity, scalability, and building systems that make lives easier.
 
-📚 Frameworks & Libraries
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+---
 
-🗃️ Databases & Tools
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-</p>
+### 🧠 Tech Toolbox
 
-🛠️ Dev Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+Here's a look into the tools and technologies that power my projects:
 
-📬 Connect With Me
-<p>
-<a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/codedbyasim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- You can add more social links here if you have them, e.g., Twitter, your personal website, or a blog! -->
-</p>
+```
+Languages      → Python · Java · C++ · HTML · CSS · JavaScript  
+Frameworks     → Django · Flask · React · Bootstrap  
+Databases      → MySQL · PostgreSQL  
+Dev Tools      → VSCode · Git · GitHub · XAMPP  
+Design Tools   → Canva  
+```
+
+---
+
+### 🔍 Focus Areas
+
+- 🧠 **Machine Learning** – predictive models, data pipelines, experimentation
+- 🖙 **Backend Systems** – REST APIs, authentication, DB design
+- 🌐 **Full-stack Prototypes** – turning an idea into a working product
+- ⚙️ **DevOps Basics** – environment setup, virtualenv, deployment
+
+---
+
+### 🛠️ Projects That Define Me
+
+| Project                      | Tech Stack          | Description                                      |
+|-----------------------------|---------------------|--------------------------------------------------|
+| **Fake News Classifier**     | Python, Flask       | Web app to detect and explain fake news articles |
+| **Face Recognition System** | Java                | Java-based biometric authentication system       |
+| **Job Portal Web App**       | Django, PostgreSQL  | A platform connecting job seekers with companies |
+| **Finance Manager**          | Django, MySQL       | Manages expenses, reports, and budgeting         |
+
+---
+
+### 🤝 Let’s Connect
+
+I love collaborating on new ideas and learning from other devs.
+
+- 📬 [asimjutt2003@gmail.com](mailto:asimjutt2003@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/masimhanif)
+- 🧑‍💻 [GitHub](https://github.com/codedbyasim)
+
+---
 
 <p align="center">
-Made by Asim Hanif
+  <em>“Building in public, learning in private.”</em><br/>
+  <strong>— Asim Hanif</strong>
 </p>
