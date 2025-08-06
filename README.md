@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asim Hanif</h1>
+<h1 align="center">Hi, I'm Asim Hanif</h1>
 <h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
 
 👨‍💻 About Me
@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-Made with ❤️ by Asim Hanif
+Made by Asim Hanif
 </p>
