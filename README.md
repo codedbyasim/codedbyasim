@@ -20,15 +20,7 @@
 
 ### Who Am I?
 
-
-
 I'm Asim a software engineer who works across *Machine Learning*, *MLOps*, *Backend Development*, and *Full-Stack Web Engineering*. I enjoy building scalable systems, solving real-world problems, and continuously exploring new technologies.
-
-
-
-> "Clean code, smart systems, and a passion for learning."
-
-
 
 ---
 
