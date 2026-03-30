@@ -22,7 +22,7 @@
 
 
 
-I'm Asim — a software engineer who works across *Machine Learning*, *MLOps*, *Backend Development*, and *Full-Stack Web Engineering*. I enjoy building scalable systems, solving real-world problems, and continuously exploring new technologies.
+I'm Asim a software engineer who works across *Machine Learning*, *MLOps*, *Backend Development*, and *Full-Stack Web Engineering*. I enjoy building scalable systems, solving real-world problems, and continuously exploring new technologies.
 
 
 
