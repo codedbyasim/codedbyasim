@@ -1,7 +1,6 @@
 <div align="center">
   <h3><code>Software Engineer // MLOps // Full-Stack Developer</code></h3>
   <p>Building production-ready systems and machine learning workflows.</p>
-
   <p>
     <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=flat-square&logo=gmail&logoColor=white" /></a>
