@@ -10,13 +10,6 @@
 
 ---
 
-### 🎯 Currently Focused On
-- 🔐 **AI Security** — adversarial robustness, LLM red-teaming, prompt injection defense
-- 🤖 **Agentic AI Systems** — multi-agent orchestration, LLM-powered automation
-- 🏥 **Privacy-Preserving Health-Tech** — federated learning, differential privacy
-
----
-
 ### 🛠 Technical Stack
 
 #### 🔐 AI Security
@@ -64,15 +57,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
 </p>
-
----
-
-### ⚙️ Operational Focus
-- **AI Security:** Adversarial testing, LLM vulnerability scanning, PII/data leakage prevention, threat modeling for ML pipelines
-- **Machine Learning:** Vision Transformers (ViT), NLP pipelines, Federated Learning, Differential Privacy
-- **Backend:** RESTful & GraphQL APIs with a focus on data integrity and secure access control
-- **Frontend:** Responsive interfaces with Next.js 15 and TypeScript
-- **MLOps:** Automating model training and deployment pipelines using Docker and ZenML
 
 ---
 
