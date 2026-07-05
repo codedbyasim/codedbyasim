@@ -1,11 +1,6 @@
 <div align="center">
   <h3><code>AI Software Engineer // AI Security // MLOps</code></h3>
   <p>Building intelligent systems — and making sure they're secure enough to trust</p>
-<p>
-  <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asimjutt2003@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/></a>
-  <a href="https://x.com/m_asimhanif"><img src="https://cdn.simpleicons.org/x/000000" height="40"/></a>
-</p>
 </div>
 
 ---
