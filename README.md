@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi, I'm Asim 👋</h1>
   <h3><code>AI Software Engineer // AI Security // MLOps</code></h3>
   <p>Building intelligent systems — and making sure they're secure enough to trust</p>
   <p>
@@ -7,12 +6,6 @@
     <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/codedbyasim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Securing+AI+systems+against+real-world+threats;Building+agentic+pipelines+%2B+privacy-preserving+ML;Health-Tech+%7C+Federated+Learning+%7C+AI+Red-Teaming" alt="Typing SVG" />
 </div>
 
 ---
