@@ -1,11 +1,11 @@
 <div align="center">
   <h3><code>AI Software Engineer // AI Security // MLOps</code></h3>
   <p>Building intelligent systems — and making sure they're secure enough to trust</p>
-  <p>
-    <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://x.com/m_asimhanif"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  </p>
+<p>
+  <a href="https://linkedin.com/in/masimhanif"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asimjutt2003@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/m_asimhanif"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" /></a>
+</p>
 </div>
 
 ---
